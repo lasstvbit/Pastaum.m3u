@@ -29,7 +29,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais | Esportes",Mma
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo=""https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Filmes e Séries",Rede Lasstv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais | Aberto",Tv Diario
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXBkBxe2us7tOg2VdzUJ1Ps)/dm/3/x7txn7q/s/live-4.m3u8
@@ -47,7 +47,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&reb
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F5NKwp5OBb8/VzNA5lN9K5I/AAAAAAAAAyQ/0xZQUoSFPjsRNvnYHRnplRc0s8mqVl8gACLcB/s1600/Logotipo_da_Rede_Brasil_de_Televis%25C3%25A3o.png" group-title="Canais | Aberto",Rede Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8
-#EXTINF:-1 tvg-logo=""https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Filmes e Séries",Rede Lasstv
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913844846934265856/kIl9v0lz_400x400.jpg" group-title="Canais | Aberto",Tv Caravelas" group-title="Canais | Aberto",Tv Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1185768735.m3u8]
@@ -93,6 +93,10 @@ https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
 #EXTINF:-1 tvg-logo="https://images-platform.99static.com/wj8YTZE2YMm79JI8vrRTBk3baAM=/500x500/top/smart/99designs-contests-attachments/31/31408/attachment_31408613" group-title="Canais | Variedades",Xtreme group-title="Canais | Variedades",Xtreme
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1127789975.m3u8
+
+
+
+
 
 
 
