@@ -93,6 +93,112 @@ https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
 #EXTINF:-1 tvg-logo="https://images-platform.99static.com/wj8YTZE2YMm79JI8vrRTBk3baAM=/500x500/top/smart/99designs-contests-attachments/31/31408/attachment_31408613" group-title="Canais | Variedades",Xtreme group-title="Canais | Variedades",Xtreme
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1127789975.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-logo-59F5BBACBB-seeklogo.com.png" group-title="Canais | Filmes e Séries",Star Hits
+https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1634339958&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=e8a9de8bce023cd274efd8ae85c784e45bb08526fd27c6f96d5fdd03d66288d6&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=ec393973f65114ac7ae93a1544f1a954454b308ebd3815d1396cfab5a2883247&pbs=bd8e2bf74c5e4af299ece5024df2aaee
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2014/04/arte1.png" group-title="Canais | Filmes e Séries",Arte Um
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/04/canal-lifetime-chega-ao-brasil-em-julho.gif" group-title="Canais | Filmes e Séries",Life Time
+https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
+https://cdn.jmvstream.com/w/AVJ-10490/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Canais | Aberto",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vfe_QeX2LOM/YTOg7rXriAI/AAAAAAAAFX0/enjvS0qkjIM9qidLWE5OOIzY8lKvIbPuACLcBGAsYHQ/s200/ISTV.webp" group-title="Canais | Aberto",Is Tv
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qO7V5fgqGFY/YTD7QzFbj0I/AAAAAAAAFSI/i3qfOlT2P5sdyYOyrMlARFJXXUpXzNmjACLcBGAsYHQ/s200/REDE%2BCLONE%2BTV.webp" group-title="Canais | Aberto",Tv Clone
+https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
+#EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/uploads/2016/12/tv-natal-canOAsm.jpg" group-title="Canais | Aberto",Tv Natal
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="Canais | Aberto",Sbt
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1129967546_b1000000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png/revision/latest/scale-to-width-down/250?cb=20200407033547" group-title="Canais | Aberto",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais | Aberto",Record
+https://caikron.com.br:8082/ricsc/floripa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais | Esportes",Tnt Sports
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais | Esportes",Tnt Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais | Esportes",Tnt Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais | Esportes",Tnt Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais | Esportes",Mma
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
+https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais | Aberto",Tv Diario
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXBkBxe2us7tOg2VdzUJ1Ps)/dm/3/x7txn7q/s/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais | Aberto",Tv Escola" group-title="Canais | Aberto",Tv Escola
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w908786114.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/3XI0vfAWtettjam6rJYDrnEvgMvTHEjGlUdYjM5Er-XDq3VeK-ONWy_rpEz2CVArHH8HoSk5TLmolSd3NbONBOOVkDrZ7ZIwpqHHSSprK8_IZ3xJtwsMw9jDAAyuD2ZugTkIpDOoxHihmQ" group-title="Canais | Aberto",Futura
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w358899857.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/558706639/redetvtwitter.jpg" group-title="Canais | Aberto",Redetv" group-title="Canais | Aberto",Redetv
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/558706639/redetvtwitter.jpg" group-title="Canais | Aberto",Redetv" group-title="Canais | Aberto",Redetv
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais | Aberto",Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="Canais | Aberto",Tv Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F5NKwp5OBb8/VzNA5lN9K5I/AAAAAAAAAyQ/0xZQUoSFPjsRNvnYHRnplRc0s8mqVl8gACLcB/s1600/Logotipo_da_Rede_Brasil_de_Televis%25C3%25A3o.png" group-title="Canais | Aberto",Rede Brasil
+http://177.11.96.110:9080/hls/sictv.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
+https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913844846934265856/kIl9v0lz_400x400.jpg" group-title="Canais | Aberto",Tv Caravelas" group-title="Canais | Aberto",Tv Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1185768735.m3u8]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1557962804/logomarca.jpg" group-title="Canais | Aberto",Rba" group-title="Canais | Aberto",Rba
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.directindustry.com/pt/images_di/photo-mg/34515-16386114.jpg" group-title="Canais | Aberto",Tv Classic" group-title="Canais | Aberto",Tv Classic
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w728837462.m3u8
+#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2012%2F09%2F17%2F14%2FWDL-Logo-18537_29504_051343698_1212835753.jpg" group-title="Canais | Aberto",Tv Bons Tempos" group-title="Canais | Aberto",Tv Bons Tempos
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="Canais | Aberto",Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1450196991.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais | Aberto",Novo tempo Internacional
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais | Aberto",Novo tempo Brasil
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg.jpg" group-title="Canais | Aberto",Tv J. Sid
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.52215.13538471120603448.87e90091-2e37-480d-b951-07f91dca3973.63a514cf-82f8-45e9-8321-df02f129507c?mode=scale&q=90&h=300&w=300" group-title="Canais | Aberto",Canal Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp" group-title="Canais | Aberto",Tv Gazeta
+https://1.bp.blogspot.com/-F5NKwp5OBb8/VzNA5lN9K5I/AAAAAAAAAyQ/0xZQUoSFPjsRNvnYHRnplRc0s8mqVl8gACLcB/s1600/Logotipo_da_Rede_Brasil_de_Televis%25C3%25A3o.png
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1428920270677549058/e2BBUKZt_400x400.jpg" group-title="Canais | Filmes e Séries",A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://exorbeo.com/wp-content/uploads/blogger/-Fy4zst8MqtI/T6VltrmKe7I/AAAAAAAAEyM/UY0MTlXpvI0/s1600/history%2Bhd%2Bna%2Bclaro%2Btv.jpg" group-title="Canais | Variedades",History" group-title="Canais | Variedades",History
+https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://img1.gratispng.com/20180610/sqa/kisspng-paramount-pictures-paramount-channel-television-ch-5b1dcd035dcf66.8906802315286796833843.jpg" group-title="Canais | Filmes e Séries",Paramount
+https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="Canais | Filmes e Séries",Warner Bros
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3175948274/87e789dd4c9b34aac0ce1c395daffe22_400x400.png" group-title="Canais | Infantil",Nick Jr
+https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-thundermans/images/c/c0/Nickelodeon.png/revision/latest?cb=20180401160537&path-prefix=pt-br" group-title="Canais | Infantil",Nickelodeon
+https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LOIKsnjUrbM/YNJ3cr-SMzI/AAAAAAAAE6I/m-8x4h98VJo6YOlN5miSgTylyz95QxXzQCLcBGAsYHQ/s0/ANIME%2BSTATION.png" group-title="Canais | Infantil",Animestation
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w995041385.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Tk_nDgzno00/YRfsL2aXRlI/AAAAAAAAFGU/d7a448ZFXb0I-HVIFa5OZFCVtry2hZ2ZwCLcBGAsYHQ/s0/RETR%25C3%2594%2BCARTOON.png" group-title="Canais | Infantil",Retrô Cartoon 2
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/cartoon-retro-color-noise-tv-icon-vector-id1262394601?k=20&m=1262394601&s=170667a&w=0&h=dpwuvIKNto9DfwsfjN-NrXgaokjmFJJUwsEiMZ8xCsY=" group-title="Canais | Infantil",Retrô Cartoon 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w498278998.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gJ9P44y_-Vkxbfx43PUiab690vuCTWwuDKiCpTMxC6Hh9q6HBZyHyEr9lukHxarfePUU8Bu9=s400-c-k-c0x00ffffff-no-rj" group-title="Canais | Musica",Mtv
+https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8YvPX1bR6tg/UzdVokFbrXI/AAAAAAAAh3o/uukPG712-vw/s1600/Cinemax.png" group-title="Canais | Filmes e Séries",Cinemax
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1453355604.m3u8
+#EXTINF:-1 tvg-logo="https://images-platform.99static.com/wj8YTZE2YMm79JI8vrRTBk3baAM=/500x500/top/smart/99designs-contests-attachments/31/31408/attachment_31408613" group-title="Canais | Variedades",Xtreme group-title="Canais | Variedades",Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1127789975.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
