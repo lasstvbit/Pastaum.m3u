@@ -229,7 +229,8 @@ https://m3u9.ml/b/hls1/hbomundi.m3u8?mu3zAQc9HC3GbwJq=tLC3dU4XH57gHyNapCMk4w&3U1
 https://m3u9.ml/b/hls1/studiouniversal.m3u8?mu3zAQc9HC3GbwJq=4_8JqO3zi-OXBGGKCayVtw&3U1G7qaTxrPbalZnEx=1635470115
 EXTINF:-1 tvg-logo="https://assets-global.website-files.com/56a8f71796f7e474512210ca/5d69a0a22927f64d134a9c1a_History2.png" group-title="Canais | Aberto",History 2
 https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8
-
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/53/Rede_Globo_Logo_1996.png/revision/latest/scale-to-width-down/500?cb=20161205101601" group-title="Canais | Aberto",Rede Globo
+https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 
 
 
