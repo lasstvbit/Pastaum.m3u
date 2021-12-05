@@ -9,6 +9,12 @@ https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e
 https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/04/canal-lifetime-chega-ao-brasil-em-julho.gif" group-title="Canais | Filmes e Séries",Life Time
 https://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Abertos",Canal GLOBO
+https://live-cm-aq-19-39.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Abertos",Canal GLOBO
+https://live-cm-al-10-37.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
+https://live-cm-al-14-36.video.globo.com/d/s/hls-pfc1/hls-pfc1_3539/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1248883930.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
