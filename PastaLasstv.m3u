@@ -12,7 +12,8 @@ http://angels.red:80/live/185780/186277/100525.m3u8
 http://angels.red:80/live/185780/186277/100470.m3u8
 #EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://empresas.forestdigital.com.br/wp-content/uploads/2021/04/COMBATE.jpg" group-title="Canais - Esportes",Combate
 http://angels.red:80/live/185780/186277/100684.m3u8
-
+#EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports2.png" group-title="Canais | Esporte",FoxSports2
+http://angels.red:80/live/185780/186277/100669.m3u8
 #EXTINF:-1 tvg-logo="https://tecnicoeduardobarros.files.wordpress.com/2012/01/sportv.jpg" group-title="Canais | Esportes",Sportv
 http://angels.red:80/live/185780/186277/124548.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_xHUcaeZm8HQGsy7jXRDruTQvVBYIarTlHo7-pfExm5Jdtldcy565sGfn8sH6r3J4Z0&usqp=CAU" group-title="Canais | Esporte",FoxSports
@@ -64,7 +65,7 @@ https://live-cm-al-14-36.video.globo.com/d/s/hls-pfc1/hls-pfc1_3539/playlist.m3u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1248883930.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CpoFnhWlOe6B116So49CYbzs8ZAPiMG19TvKWk_zdT26V8Jo3K5e21pk-pVzlvswjSwj1QY8wPvEr1z9uxkD15r7P9EwrorKZ1knRvNhEufKexzgCEvnqnTie_G_iSrL0TiEpiM7kerKgx-IRJo74M-8nzCdNmyEqhTdb5xtXLV0wCQbbsaSUu4UUoxx8e1FbWmhmyFg6nCLrl_0OyLh3zA-qVywtHsGAli4nfhvTDTkOG5hFHarHTUuurxriikUulN2hbojKv3O6nTQiR4Ks5q_urrVoNJniuiypxHrqnq4c4bnH6I3fgBvOgYQgAbBn1SN3l40cjMyLgphxpWmzjgSc3kyINvxqqaenQCLYy_myquNXD9tFnpEK5OzLWn6Po2tbCZFNsfH94uukqR9fh6dz8m8IkJy35SWAR-b_LImnBeshbIhtgLWG-dJt4fQdvNEa51BJ5vpzMzcwKaltroDo_2aXOfl23BFI9jZRY2rLTbINflv7T0VgkEm_SnlnZ9HyNsZ-dReOaRpzWl4kCfw6qsOKNstIpqv6wFPPj_4CP-mEErzvRLXJfBjRDLx_umsVmmKNCYvBKhkAuvJTVuYnvswCgB-Y2OXTraK54r3DjrH-KEjm1z9GzufGajYshvCVz8qW5-VUvSMlxfVOAlhmDvTwlIgDD1PeCLpNXI3lY9QXS4_i8i3y2IplPM-_B4KNb0eCVNsbf7yneJZ4xDeyIxN-gekkI-aywnp3d0UW0VE81zDlev5BuvuOR-KdNS5oTfcptaFxBmq3l0h5mRWjQU-vgnFIlZT3vWXkg6ATmsiQiNAcyvB3rfzwRXW8JbnlZ-w16jZ2ZLalJ7_g-qbTpA4oHHKUddO6ZoI2lDmfZscn1pqDn7qM3apGgx9yNPd_H-C79nMJY0gASoJdXMtZWFzdC0yMKsC.m3u8
+https://stmv1.srvstm.com/luiz8298/luiz8298/chunklist_w1998413938.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w1248883930.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="Canais | Aberto",CNT
