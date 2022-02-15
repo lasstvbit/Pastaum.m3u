@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Canais | Filmes",Star Hits
-http://angels.red:80/live/185780/186277/100887.m3u8
+http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJl6dHM1FVgQET8cxyFSyVwg/m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Filmes",Canal Globo
 http://angels.red:80/live/185780/186277/101821.m3u8
 #EXTINF:-1 tvg-logo="https://static.fabapp.com/4e77843430a2fbd185c94d3c30d7e33b43c7a4cf" group-title="Canais | Avisos",Canal Sky
