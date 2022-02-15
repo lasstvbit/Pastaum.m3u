@@ -2,14 +2,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="Canais | Filmes",Star Hits
 http://angels.red:80/live/185780/186277/100895.m3u8
-#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Filmes",Canal Globo
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Filmes",Globo Rj
 http://angels.red:80/live/185780/186277/101821.m3u8
 #EXTINF:-1 tvg-logo="https://static.fabapp.com/4e77843430a2fbd185c94d3c30d7e33b43c7a4cf" group-title="Canais | Avisos",Canal Sky
-https://www.minhaoperadora.com.br/wp-content/uploads/2020/03/sky-com-mais-de-70-canais-gr%C3%A1tis.jpg
+http://angels.red:80/live/185780/186277/99933.m3u8
+#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Variedades",Globo Sp
+http://angels.red:80/live/185780/186277/101832.m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Variedades",Canal Globo
-https://live-cm-al-13-38.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Variedades",Canal Globo
-https://live-cm-al-13-38.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=558976.m3u8
+http://angels.red:80/live/185780/186277/101821.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C0hs69_zP1g/XTPzL6yB9mI/AAAAAAABtbY/ozpj7Snxvh48PXyL7mxxDcnL8uF4aZ5aQCLcBGAs/s1600/animal%2Blogo.jpg" group-title="Canais | Documentário",Animal Planet
 http://angels.red:80/live/185780/186277/100624.m3u8
 #EXTINF:-1 tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canais | Sports",Lasstv Sports 03
@@ -65,7 +65,7 @@ https://xmanga.xyz/premiereclube/video.m3u8?token=a46735c7d5f5d056cca8d3044c1e25
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-hits-logo-59F5BBACBB-seeklogo.com.png" group-title="Canais | Filmes e Séries",Star Hits
 https://bit.ly/3IDQDAN
 #EXTINF:-1 tvg-logo="https://i1.wp.com/bastidoresdainformacao.com.br/wp-content/uploads/2014/04/arte1.png" group-title="Canais | Filmes e Séries",Arte Um
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8
+http://angels.red:80/live/185780/186277/100615.m3u8
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
 http://angels.red:80/live/185780/186277/100464.m3u8
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/04/canal-lifetime-chega-ao-brasil-em-julho.gif" group-title="Canais | Filmes e Séries",Life Time
