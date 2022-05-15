@@ -70,6 +70,8 @@ http://angels.red:80/live/185780/186277/100493.m3u8
 http://angels.red:80/live/185780/186277/100464.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458419886447812608/dqLGO5bA_400x400.jpg" group-title="Canais | Filmes",Sportv
 http://angels.red:80/live/185780/186277/100677.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn
+https://cdn1.xvideosporn.me/p2p/spn/chunks.m3u8?nimblesessionid=443443&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIyIDExOjQ0OjA3IEFNJmhhc2hfdmFsdWU9RER6bnNJQzdxN084MFM0SS9yTnA2dz09JnZhbGlkbWludXRlcz05MA==
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/5/53/Rede_Globo_Logo_1996.png/revision/latest/scale-to-width-down/500?cb=20161205101601" group-title="Canais | Aberto",Rede Globo
 https://stmv3.samcast.com.br/jose5122/jose5122/chunklist_w541114289.m3u8
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/premiere-590x2951.jpg" group-title="Canais | Esportes",Premier fc
