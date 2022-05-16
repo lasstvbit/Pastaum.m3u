@@ -43,7 +43,11 @@ http://angels.red:80/live/185780/186277/100677.m3u8
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/premierefc.jpg" group-title="Canais | Filmes",premiere Fc
 http://angels.red:80/live/185780/186277/100464.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn4
-https://live.xvideosporn.me/p2p/spn4/chunks.m3u8?nimblesessionid=2039525&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDIyIDEyOjI3OjM3IFBNJmhhc2hfdmFsdWU9M3lORVltNFRLRE5YSnE2N0NRd2d6QT09JnZhbGlkbWludXRlcz05MA==
+http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJg-ryo_l0pEzjLTQGz8YDTA/m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn2
+http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJj7aZhkOA8qyGrM09dVEraY/m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn Extra
+http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJvZl5bg3iHtLr-01r7DeJBA/m3u8
 #EXTINF:-1 tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/80597i476EBD373B30F048?v=1.0" group-title="Canais | Filmes",A&E
 http://angels.red:80/live/185780/186277/100836.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_logo_antiguo.jpg" group-title="FILMES",Axn
