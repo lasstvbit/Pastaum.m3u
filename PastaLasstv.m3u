@@ -114,7 +114,8 @@ https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="Canais | Aberto",Sbt
 https://ecdn3-mediastream.cdn.mdstrm.com/token=nva=1652861088~dirs=2~hash=03ab02667c879d12efb90/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8?aid=61bb80f4f00ee80811d29826&uid=YIzx5FwEWGNP35JgffdNtbz79LNYbqv1&sid=9jkWlihFwwdwGxNYW450oo3Edq5Sl6LX&pid=9eoDfxaPn9X9YrSGrZwJg6KIEY4ScCIe&ref=https%3A%2F%2Fwww.sbt.com.br%2F&without_cookies=false&listenerid=&dnt=true&es=ecdn3-mediastream.cdn.mdstrm.com/token=nva=1652861088~dirs=2~hash=03ab02667c879d12efb90&proto=https&pz=us
-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="Canais | Infantil",3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png/revision/latest/scale-to-width-down/250?cb=20200407033547" group-title="Canais | Aberto",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdpdE97XV3ygf2cnlV9jcCkIDoelwCcmBSpfkaUo0kwMw-RPnUwXxFwhIsORdzAy7Rd7w&usqp=CAU" group-title="Canais | Aberto",Record
@@ -129,6 +130,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais | Esportes",Mma
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn2
+http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJugAJ0y-mVCPhc-GWxGikEc/m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Aberto",Rede Lasstv
 https://stmv1.srvstm.com/luiz6533/luiz6533/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Tv_diario_38.jpg" group-title="Canais | Aberto",Tv Diario
@@ -223,6 +226,8 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
 #EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/uploads/2016/12/tv-natal-canOAsm.jpg" group-title="Canais | Aberto",Tv Natal
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8
+#EXTINF:-1 tvg-logo="https://tiinside.com.br/wp-content/uploads/2013/03/sbt.jpg" group-title="Canais | Aberto",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="Canais | Aberto",Sbt
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1129967546_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Band_logo_wordmark_2010.png/revision/latest/scale-to-width-down/250?cb=20200407033547" group-title="Canais | Aberto",Band
