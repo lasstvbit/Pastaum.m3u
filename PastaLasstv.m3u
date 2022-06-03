@@ -8,6 +8,8 @@ http://angels.red:80/live/185780/186277/101821.m3u8
 https://live-cm-al-14-37.video.globo.com/h/0401654384666163783013016542982661418672896vfFC2yYrQpPGbS3EsuUIcg/k/html5/a/F/u/079210ed-0c40-487f-bb58-729ca8ae5533/nu/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/U86Hh_PQR8ueN6dQfDIjqA/stream/102b6b9b-34ed-4a1f-8729-40f587fd5d46:SCL/variant/f43a58f0123cfad877300a3a1665878b/bandwidth/4127000.m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Filmes",Globo Rj
 https://live-cm-al-14-37.video.globo.com/nu/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8
+#EXTINF:-1 xui-id="101821" tvg-id="Globorj.br" tvg-name="Globo RJ FHD" tvg-logo="http://supertv.io:80/images/6afb0870e2340540afeb57b7ea0bfa33.png" group-title="Canais - Globo Sudeste",Globo RJ FHD
+https://bit.ly/globorjx1
 #EXTINF:-1 tvg-logo="https://static.fabapp.com/4e77843430a2fbd185c94d3c30d7e33b43c7a4cf" group-title="Canais | Avisos",Canal Sky
 http://angels.red:80/live/185780/186277/99933.m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Variedades",Globo Sp
