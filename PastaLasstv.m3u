@@ -22,6 +22,8 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 http://angels.red:80/live/185780/186277/100624.m3u8
 #EXTINF:-1 tvg-logo="https://tecnicoeduardobarros.files.wordpress.com/2012/01/sportv.jpg" group-title="Canais | Esportes",Sportv
 https://aipaipara.xyz/sportv/tracks-v1a1/mono.m3u8?token=a7d2d3863ce7098c5d329301eec8093196b7a64e-afb98c34fb0c3d5231f993848fa67905-1654307692-1654304092
+#EXTINF:-1 xui-id="124544" tvg-id="Sportv2.br" tvg-name="Sportv 2 HD" tvg-logo="http://supertv.io:80/images/1da3c00866d6cb612faff01f8d07f5f0.png" group-title="Canais - Esportes",Sportv 2 HD
+https://aipaipara.xyz/sportv2/tracks-v1a1/mono.m3u8?token=5e21d624d04cbb8f1a1f40b1cf609bcd6376a540-86ea1e3ae55875d58685fc24724e4d14-1654308347-1654304747
 #EXTINF:-1 tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canais | Sports",Lasstv Sports 03
 http://supertv.io:80/play/_CcoMwPriqmXHpCBrutkJtxcC8T5csmuJL0zHOPeCdc/m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AMGVYa6iw5k/YRLW2XWv4SI/AAAAAAAAABY/AaygCrowIfE-7dG6oUrdKXzG2-lc4Br0gCNcBGAsYHQ/s0/LOGOTIPO%2B2%2B%25281%2529TV21.png" group-title="Canais | Filmes",Rede Lasstv
