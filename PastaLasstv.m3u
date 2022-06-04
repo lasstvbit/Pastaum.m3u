@@ -16,6 +16,8 @@ http://angels.red:80/live/185780/186277/99933.m3u8
 http://angels.red:80/live/185780/186277/101832.m3u8
 #EXTINF:-1 tvg-logo="https://www.jornalcontabil.com.br/wp-content/uploads/2021/10/GLOBO.png" group-title="Canais | Variedades",Canal Globo
 http://angels.red:80/live/185780/186277/101821.m3u8
+#EXTINF:-1 xui-id="101866" tvg-id="Rederecord.br" tvg-name="Record TV RJ HD" tvg-logo="http://supertv.io:80/images/1d2c7f60d0624311f136ffe26d0b9c76.jpg" group-title="Canais - Record",Record TV RJ HD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C0hs69_zP1g/XTPzL6yB9mI/AAAAAAABtbY/ozpj7Snxvh48PXyL7mxxDcnL8uF4aZ5aQCLcBGAs/s1600/animal%2Blogo.jpg" group-title="Canais | Documentário",Animal Planet
 http://angels.red:80/live/185780/186277/100624.m3u8
 #EXTINF:-1 tvg-logo="https://tecnicoeduardobarros.files.wordpress.com/2012/01/sportv.jpg" group-title="Canais | Esportes",Sportv
