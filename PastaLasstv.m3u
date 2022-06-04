@@ -44,6 +44,8 @@ http://angels.red:80/live/185780/186277/100470.m3u8
 http://angels.red:80/live/185780/186277/100684.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000272002276-whtyc2-t500x500.jpg" group-title="Canais | Esportes",Espn
 https://www.webcsn.ru.com/cdn/premium82/chunks.m3u8
+#EXTINF:-1 xui-id="100670" tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="http://supertv.io:80/images/12e21b478239f0655cbaa6cbe6568e32.png" group-title="Canais - Esportes",FOX Sports 2 HD
+https://aipaipara.xyz/fox-sports2/tracks-v1a1/mono.m3u8?token=09a7bcc81620186d9391fab6eba8f65946010159-a8cedc5cfe3fd8ea1cfd88a741ff609c-1654308560-1654304960
 #EXTINF:-1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports2.png" group-title="Canais | Esporte",FoxSports2
 http://angels.red:80/live/185780/186277/100669.m3u8
 #EXTINF:-1 tvg-logo="https://tecnicoeduardobarros.files.wordpress.com/2012/01/sportv.jpg" group-title="Canais | Esportes",Sportv
